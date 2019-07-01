@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import Auxl from '../../hoc/Auxl';
 import classes from './Layout.css';
 
